@@ -30,7 +30,7 @@
 							)
 
 /obj/item/clothing/head/ego_hat/helmet/DeadRabbit
-	name = "nagel und hammer helmet"
+	name = "Dead Rabbit Helmet"
 	desc = "Rag helmet worn by Dead Rabbits."
 	worn_icon = 'icons/mob/clothing/ego_gear/DeadRabbits.dmi'
 	icon_state = "RabbitHat"
